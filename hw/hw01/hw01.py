@@ -120,9 +120,3 @@ def hailstone(n):
         length += 1
     print(n)
     return length
-
-
-
-
-
-

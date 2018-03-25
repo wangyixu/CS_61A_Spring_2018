@@ -190,7 +190,7 @@ def compose1(f, g):
 
 quine = """
 "*** YOUR CODE HERE ***"
-"""
+"""  
 
 def zero(f):
     return lambda x: x
